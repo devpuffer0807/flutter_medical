@@ -1,0 +1,226 @@
+{
+    "app_title":"السلامة الدوائية",
+    "reporter_info": "المرسل",
+    "patient_details":  "المريض",
+    "adverse_reactions": "الأعراض",
+    "drugs":"الأدوية",
+
+    "menu_home": "Home",
+    "menu_reporting_method": "طريقة الابلاغ",
+    "menu_profile": "المرسل",
+    "menu_faq":"أسئلة متكررة",
+    "menu_about":"عن التطبيق ",
+    "menu_rating":" قيمنا",
+    "menu_contact":"أتصل بنا  ",
+    "menu_change_lang": "Switch to English",
+    "reporting_method_video_url": "https://www.youtube.com/watch?v=5NdcDm_Ss7w",
+
+    "btn_send_report":"أرسل تقريرا للأعراض الجانبية ",
+
+    "title_adverse_reactions": "تقرير الأعراض الجانبية",
+    "title_report":"المرسل",
+    "reporter_name":"الأسم*",
+    "phone":"رقم الهاتف*",
+    "email":"البريد الالكتروني",
+    "city":"المحافظة*",
+    "org":"المنظمة",
+    "profession":"الأختصاص*",
+
+    "title_patient_details":"المريض",
+    "patient_name":"الأسم أو الكنية*",
+    "gender":"الجنس",
+    "male": "ذكر",
+    "female": "أنثى",
+    "age":"العمر*",
+    "weight":" الوزن كغم",
+    "height":"الطول سم",
+    "medical_history":"الأمراض المزمنة , حساسية الادوية , حمل , تدخين , كحول ... الخ  ",
+
+    "next": "التالي",
+    "save": " حفظ",
+    "prev": "السابق",
+
+    "age_option": "تحديد*\n",
+    "age_options": [
+        "يوم",
+        "أسبوع",
+        " شهر",
+        "سنة"
+    ],
+
+    "cities": [
+        " الانبار",
+        "المثنى",
+        "القادسية ",
+        "بابل",
+        "بغداد",
+        "البصرة",
+        "ذي قار",
+        "ديالى",
+        "كربلاء",
+        "كركوك",
+        "ميسان",
+        "النجف",
+        "نينوى",
+        "صلاح الدين" ,
+        "واسط",
+        "دهوك",
+        "اربيل",
+        " السليمانية",
+        "حلبجة"
+    ],
+
+    "professions": [
+        "طبيب",
+        "صيدلاني",
+        "كادر طبي",
+        "مواطن"
+    ],
+
+    "relevant_images": "صور ذات علاقة",
+    "title_adverse_reaction": "وصف العارض الجانبي*",
+    "adverse_note": "ملاحظة : اذا كانت جميع الاعراض الجانبية تمتلك نفس تاريخ البدء و النتيجة و المدة , بالامكان كتابتها جميعا في حقل واحد",
+    "onset_date":"تاريخ البدء",
+    "seriousness_level": "مستوى الخطورة",
+    "outcome": "النتيجة",
+    "duration": "المدة",
+    "time": "تحديد",
+
+    "outcomes": [
+        "تحسن",
+        "ليس بعد",
+        "وفاة",
+        "لا أعرف"
+    ],
+
+    "seriousness": [
+        "سبب دخول المستشفى",
+        "مهدد للحياة",
+        "سبب عوقا",
+        "سبب تشوها ولاديا",
+        "خطير لأسباب اخرى",
+        "غير خطير"
+    ],
+
+    "durations":[
+        "دقيقة",
+        "ساعة",
+        "يوم",
+        "شهر"
+    ],
+    "end_date":"تاريخ الانتهاء",
+    "cancel":"الغاء" ,
+    "add":"أضافة",
+    "edit": "تحديث",
+    "delete": "أحذف",
+    "image": "IMAGE",
+
+
+    "suspected_drugs": "ألأدوية",
+    "concomitant": "أدوية مرافقة",
+    "drug_images": "صور الأدوية",
+    "send": "ارسال",
+    "back": "Back",
+
+
+    "drug_name": "اسم الدواء*",
+    "drug_role": " دور الدواء*",
+    "dose": "الجرعة",
+    "dose_unit": "وحدة",
+    "dose_units": [
+        "ملغم",
+        "غم",
+        "مكغم",
+        "مل",
+        "ملك",
+        "%",
+        "ماك",
+        "و دول"
+    ],
+    "drug_roles": [
+        "مسبب",
+        "مصاحب",
+        "متداخل"
+    ],
+
+    "dose_route": "عن طريق",
+    "dose_routes": [
+        "أنف",
+        "فم",
+        "عضلي",
+        "تحت الجلد",
+        "مغذي",
+        "عين",
+        "وريدي",
+        "تنفس",
+        "مهبلي",
+        "شرجي",
+        "جلدي",
+        "فقري",
+        "مفصلي"
+    ],
+
+    "each": "كل",
+    "frequency": "التكرار",
+    "dose_each": [
+        "مرة",
+        "مرتان",
+        "3 مرات",
+        "4 مرات",
+        "5 مرات",
+        "6 مرات"
+    ],
+
+    "dose_schedule": "وقت",
+    "dose_schedules": [
+        "ساعة",
+        "يوم",
+        "اسبوع",
+        "شهر",
+        "كلي"
+    ],
+
+    "start_date": "تاريخ البدء",
+    "action_taken": "الاجراء",
+    "action_list": [
+        "ايقاف",
+        "مستمر",
+        "لا أعرف",
+        "تقليل الجرعة"
+    ],
+
+    "action_on": "بتاريخ",
+    "indication":"سبب الاعطاء",
+    "manufacturer": "المصنع و رقم الوجبة",
+    "origin": "بلد المنشأ",
+
+    "countries":["Afghanistan","Albania","Algeria","Andorra","Angola","Anguilla","Antigua &amp; Barbuda","Argentina","Armenia","Aruba","Australia","Austria","Azerbaijan","Bahamas","Bahrain","Bangladesh","Barbados","Belarus","Belgium","Belize","Benin","Bermuda","Bhutan","Bolivia","Bosnia &amp; Herzegovina","Botswana","Brazil","British Virgin Islands","Brunei","Bulgaria","Burkina Faso","Burundi","Cambodia","Cameroon","Cape Verde","Cayman Islands","Chad","Chile","China","Colombia","Congo","Cook Islands","Costa Rica","Cote D Ivoire","Croatia","Cruise Ship","Cuba","Cyprus","Czech Republic","Denmark","Djibouti","Dominica","Dominican Republic","Ecuador","Egypt","El Salvador","Equatorial Guinea","Estonia","Ethiopia","Falkland Islands","Faroe Islands","Fiji","Finland","France","French Polynesia","French West Indies","Gabon","Gambia","Georgia","Germany","Ghana","Gibraltar","Greece","Greenland","Grenada","Guam","Guatemala","Guernsey","Guinea","Guinea Bissau","Guyana","Haiti","Honduras","Hong Kong","Hungary","Iceland","India","Indonesia","Iran","Iraq","Ireland","Isle of Man","Israel","Italy","Jamaica","Japan","Jersey","Jordan","Kazakhstan","Kenya","Kuwait","Kyrgyz Republic","Laos","Latvia","Lebanon","Lesotho","Liberia","Libya","Liechtenstein","Lithuania","Luxembourg","Macau","Macedonia","Madagascar","Malawi","Malaysia","Maldives","Mali","Malta","Mauritania","Mauritius","Mexico","Moldova","Monaco","Mongolia","Montenegro","Montserrat","Morocco","Mozambique","Namibia","Nepal","Netherlands","Netherlands Antilles","New Caledonia","New Zealand","Nicaragua","Niger","Nigeria","Norway","Oman","Pakistan","Palestine","Panama","Papua New Guinea","Paraguay","Peru","Philippines","Poland","Portugal","Puerto Rico","Qatar","Reunion","Romania","Russia","Rwanda","Saint Pierre &amp; Miquelon","Samoa","San Marino","Satellite","Saudi Arabia","Senegal","Serbia","Seychelles","Sierra Leone","Singapore","Slovakia","Slovenia","South Africa","South Korea","Spain","Sri Lanka","St Kitts &amp; Nevis","St Lucia","St Vincent","St. Lucia","Sudan","Suriname","Swaziland","Sweden","Switzerland","Syria","Taiwan","Tajikistan","Tanzania","Thailand","Timor L'Este","Togo","Tonga","Trinidad &amp; Tobago","Tunisia","Turkey","Turkmenistan","Turks &amp; Caicos","Uganda","Ukraine","United Arab Emirates","United Kingdom", "USA","Uruguay","Uzbekistan","Venezuela","Vietnam","Virgin Islands (US)","Yemen","Zambia","Zimbabwe"],
+
+    "title_about": "حول التطبيق",
+    "about_text" : "ان تطبيق ( السلامة الدوائية )   هو الوسيلة الاسرع بين يديك للابلاغ عن الاعراض الجانبية للادوية و ارسالها الى المركز العراقي لليقظة الدوائية . اذا كنت تعاني انت او احد اقربائك او معارفك من اضرار صحية ناتجة عن تناول ادوية او مكملات غذائية او لقاحات أو شعرت بعدم فعالية الادوية  فسارع باالابلاغ عنها بسهولة عن طريق ملىء الحقول في هذا التطبيق . سيقوم المركز العراقي لليقظة الدوائية بتحليل المعلومات الواردة في التقارير المرسلة من قبلكم  لمعرفة الاسباب التي تؤدي الى تلك  الاضرار الصحية و اعطاء الحلول اللازمة و  تعميمها الى الكوادر الطبية  لغرض تجنب تلك الاضرار بما يعزز من سلامة المريض و حصوله على دواء امن و فعال .ارسالك لتلك المعلومات  مساهمة انسانية قيمة لصحة الناس و المجتمع .\nبالاضافة الى ذلك , ينشر تطبيق ( السلامة الدوائية ) على الصفحة الرئيسية اهم الكتب و الاعمامات الصادرة عن المركز العراقي لليقظة الدوائيةو التي تتضمن  معلومات محدثة عن الاعراض الجانبية و الاخطاء العلاجية و الادوية المقلدة و المغشوشة  لغرض اطلاع الكوادر الطبية عليها بما يضمن وصول دواء امن و فعال للمرضى  و يقلل من الاخطاء العلاجية   و يعزز  سلامة المرضى  من مخاطر الاعراض الجانبية  . \n",
+
+    "title_faq": "أسئلة متكررة",
+    "faq_text": "أسئلة متكررة\n\n1 . ما هو تطبيق السلامة الدوائية ؟ \nج . هو التطبيق الرسمي للمركز العراقي لليقظة الدوائية في وزارة الصحة العراقية و الذي من خلاله يمكنكم الابلاغ عن الاعراض الجانبية للادوية و اللقاحات و كذلك  يمكنكم من الاطلاع على اخر الكتب و التحديثات  التي تخص الاعراض الجانبية للادوية و اللقاحات و الاطلاع على التحذيرات التي تخص الادوية المهربة و المقلدة و المغشوشة و الاخطاء العلاجية لغرض تجنبها بما يعزز من وصول الادوية الامنة و الاصلية و الفعالة الى المرضى .\n 2.ما هي الأعراض الجانبية ؟ \nج . الاعراض الجانبية للادوية هي اثار صحية غير مرغوبة تحدث نتيجة لتناول الأدوية و اللقاحات و الفيتامينات و  المكملات الغذائية وتختلف شدة حدوثها من شخص لأخر بناءً على عدة عوامل كالعمر، جرعة الدواء , الوزن، طبيعة الغذاء، الحالة المرضية أو حتى التركيب الجيني للمريض .\n 3.من يمكنه ارسال تقرير  الاعراض الجانبية ؟ \n ج . جميع الكوادر الطبية و الصحية ( أطباء و اطباء اسنان و صيادلة و كوادر وسطية ) و كذلك  جميع المواطنين يمكنهم الابلاغ عن الاعراض الجانبية التي يعانون منها هم او ذويهم او اقربائهم او أصدقائهم عن طريق هذا التطبيق .\n4 . لماذا نبلغ عن الاعراض الجانبية ؟ \nج . تحدث الاعراض الجانبية بنسب متفاوتة و لاسباب متعددة منها التأثير السلبي للمادة الفعالة للدواء أو بسب اخطاء في استخدام الدواء او بسبب التداخلات بين الادوية المتعددة او التداخلات بين الادوية و الامراض او بسبب الشوائب الموجودة في الادوية المقلدة او المغشوشة . و يمتلك المركز العراقي قاعدة بيانات للتقارير المرسلة اليه من قبلكم تمكنه من تحليل البيانات و معرفة اسباب الأعراض الجانبية و التحذير منها ايا كانت الاسباب لذا فان ارسال الاعراض الجانبية من قبلكم هو مساهمة فعالة في تحسين صحة المرضى بما يضمن وصول دواء آمن وفعال . \n5. كيف يمكنني ارسال الاعراض الجانبية عن طريق هذا التطبيق ؟\nج . يمكنكم الاطلاع على طريقة الابلاغ بالضغط على زر القائمة اعلى يمين الشاشة و الضغط على ( طريقة الابلاغ ) و مشاهدة الفيديو التوضيحي لطريقة الابلاغ .\n6. هل هناك مسؤولية قانونية تجاهي في حال ارسالي لتقرير الأعراض الجانبية ؟\nج .يشجع المركز العراقي لليقظة الدوائية جميع الكوادر الطبية و المواطنين على الاستمرار بالابلاغ عن الاعراض الجانبية للادوية و اللقاحات و  لا توجد اي مسؤولية قانونية أو محاسبة لأي شخص أرسل تقريرا للأعراض الجانبية و اسماء المرسلين و ارقام هواتفهم  و معلومات  المرضى تبقى سرية و غير قابلة للتداول  و تطلب هذه المعلومات لغرض الاتصال بهم في حال احتياجنا لمعلومات تخص الاعراض الحانبية و حالة المريض لغرض اكمال التقرير .   \n7. هل علي ان املأ كل الحقول و الخيارات في التقرير ؟\nج .  يمكنك ارسال التقرير بملئ الحقول و الخيارات الالزامية فقط و التي تحمل علامة * و لكن الافضل ملؤ كل الحقول و الخيارات في التقرير قدر المستطاع  لكي نتمكن من الوصول بشكل دقيق و سريع الى اسباب الاعراض الجانبية . \n8.هل الابلاغ عن الاعراض الجانبية  يخص الادوية المصروفة من المؤسسات الصحية الحكومية? \nج . الابلاغ يشمل جميع الادوية و اللقاحات و المقويات التي تصرف في القطاعين الحكومي و الخاص . \n9 . ما هي انواع الاعراض الجانبية التي يمكنني الابلاغ عنها ؟  \nج . يمكن الابلاغ عن جميع انواع الاعراض الجانبية للادوية , المذكورة و الغير مذكورة  في النشرة المرفقة  للدواء , الخطيرة و النادرة , التي تسبب دخول المستشفى و التي تسبب الاعاقة والتشوهات الخلقية و المهددة للحياة و الادوية عديمة الفعالية . \nلمزيد من المعلومات  يمكنكم الاتصال بالرقم 07718020556 او ارسال رسالة الى البريد الالكتروني  iraqphvc@gmail.com\n",
+
+    "title_contact": "أتصل بنا",
+    "contact_text": "mbasel80@gmail.com    07708583490\nكركوك محمد باسل regional pharmacovigilance unit in kirkuk\n",
+
+    "error_mandatory_reporter_name": "الرجاء كتابة الأسم",
+    "error_mandatory_reporter_phone": "الرجاء كتابة رقم الهاتف",
+    "error_mandatory_reporter_city": "الرجاء اختيار المحافظة",
+    "error_mandatory_reporter_profession": "الرجاء اختيار الأختصاص",
+    "error_mandatory_patient_name": "الرجاء كتابة اسم المريض",
+    "error_mandatory_patient_age": "الرجاء كتابة العمر",
+    "error_mandatory_patient_age_option": "الرجاء التحديد",
+    "error_mandatory_reaction_name": "الرجاء كتابة العارض الجانبي",
+    "error_mandatory_reaction": "الرجاء اضافة عارض جانبي",
+    "error_mandatory_drug": "الرجاء إضافة دواء",
+    "error_alert_title": "تنبيه خطأ",
+    "error_mandatory_drug_role": "الرجاء إختيار دور الدواء",
+    "error_mandatory_drug_name": "الرجاء كتابة إسم الدواء",
+    "sending_email": "جاري الإرسال",
+    "error_sending_email": "حصل خلل اثناء الارسال , الرجاء المحاولة مرة اخرى او اتصل بنا",
+    "close": "أغلق",
+    "dialog_alert": "إنذار",
+    "sending_email_success": "تم ارسال التقرير بنجاح , شكرا لك"
+}

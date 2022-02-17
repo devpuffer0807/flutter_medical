@@ -1,0 +1,226 @@
+{
+    "app_title":"MedSafety",
+    "reporter_info": "Reporter",
+    "patient_details": "Patient",
+    "adverse_reactions": "Reactions",
+    "drugs": "Drugs",
+
+    "menu_home": "Home",
+    "menu_reporting_method": "Reporting method",
+    "menu_profile":"Reporter",
+    "menu_faq":"FAQ",
+    "menu_about":"About ",
+    "menu_rating":"Rate us",
+    "menu_change_lang": "اللغة العربية",
+    "reporting_method_video_url": "https://www.youtube.com/watch?v=MtQ1HE-UAe8",
+
+    "btn_send_report":"Send Adverse Reaction Report",
+
+    "title_adverse_reactions": "Adverse Reactions Report",
+    "title_report":"Reporter Info",
+    "reporter_name":"*Name",
+    "phone":"*Phone",
+    "email":"Email",
+    "city":"*City",
+    "org":"Organization",
+    "profession":"*Profession",
+
+    "title_patient_details":"Patient Details",
+    "patient_name":"*Name or Initials e.g DM",
+    "gender":"Gender ",
+    "male": "Male",
+    "female": "Female",
+    "age":"*Age",
+    "weight":"Weight Kg",
+    "height":"Height cm",
+    "medical_history":"Chronic illness , allergies , pregnancy ,smoking , alcohol...",
+
+    "next": "NEXT",
+    "save": "SAVE",
+    "prev": "PREV",
+
+    "age_option": "*Age Option",
+    "age_options": [
+        "days",
+        "weeks",
+        "months",
+        "years"
+    ],
+
+    "cities": [        
+        "Anbar",
+        "Muthanna", 
+        "Qadisiyyah", 
+        "Babil",
+        "Baghdad",
+        "Basra", 
+        "DhiQar", 
+        "Diyala", 
+        "Karbala", 
+        "Kirkuk",
+        "Maysan", 
+        "Najaf",
+        "Nineveh",
+        "Saladin", 
+        "Wasit",  
+        "Dohuk", 
+        "Erbil",  
+        "Sulaymaniyah", 
+        "Halabja"      
+    ],
+
+    "professions": [    
+        "Doctor",
+        "Pharmacist",
+        "Other Health Care Proffessional",
+        "Consumer"
+    ],
+
+    "relevant_images": "Relevant Images",
+    "title_adverse_reaction": "*Adverse Reaction",
+    "adverse_note": "Note: If all adverse reactions have the same onset date, outcome, and duration time,you can write all of them in one field",
+    "onset_date":"Onset Date",
+    "seriousness_level": "Seriousness Level",
+    "outcome": "Outcome",
+    "time": "Time",
+    "duration": "Duration",
+    "outcomes": [
+    "Recovered",
+    "Not yet",
+    "Death",
+    "Unknown"
+    ],
+    "seriousness": [
+        "Caused / prolonged hospitalization",
+        "Life threatening",
+        "Disabling / incapacitating",
+        "Congenital anomaly / birth defect",
+        "Serious for  Other causes",
+        "Not serious"
+    ],
+
+    "durations":[
+    "Minute",
+    "Hour",
+    "Day",
+    "Month"
+    ],
+    "end_date":"End Date",
+    "cancel":"Cancel" ,
+    "add":"Add",
+    "edit": "Update",
+    "delete": "Delete",
+    "image": "Image",
+
+
+    "suspected_drugs": "Drug(s)",
+    "concomitant": "Concomitant Drug(s)",
+    "drug_images": "Images of Drugs",
+    "send": "Send",
+    "back": "Back",
+
+
+    "drug_name": "*Drug Name",
+    "drug_role": "*Drug Role",
+    "dose": "Dose",
+    "dose_unit": "Unit",
+    "dose_units": [
+        "unit",
+        "mg",
+        "g",
+        "mcg",
+        "ml",
+        "meq",
+        "%",
+        "mac",
+        "IU"
+    ],
+    "drug_roles": [
+        "Suspect",
+        "Concomitant",
+        "Interacting"
+    ],
+
+    "dose_route": "Route",
+    "dose_routes": [
+        "Nasal",
+        "Oral",
+        "IM",
+        "Sc",
+        "IVdri",
+        "Ophth",
+        "IVbol",
+        "Inhal",
+        "Vaginal",
+        "Rectal",
+        "topical",
+        "InThec",
+        "IArt"
+    ],
+
+    "each": "each",
+    "frequency": "Frequency",
+    "dose_each": [
+        "Once",
+        "Twice",
+        "Thrice",
+        "4Times",
+        "5Times",
+        "6Times"
+    ],
+
+    "dose_schedule": "Time",
+    "dose_schedules": [
+        "Hour",
+        "Day",
+        "Week",
+        "Month",
+        "Total"
+    ],
+
+    "start_date": "Date Started",
+    "action_taken": "Action taken",
+    "action_list": [
+    "Stopped",
+    "Continued",
+    "Unknown",
+    "Dose reduced"
+    ],
+
+    "action_on": "On",
+    "indication":"Indication",
+    "manufacturer": "Manufacturer & Batch no.",
+    "origin": "Origin Country",
+
+    "countries":["Afghanistan","Albania","Algeria","Andorra","Angola","Anguilla","Antigua &amp; Barbuda","Argentina","Armenia","Aruba","Australia","Austria","Azerbaijan","Bahamas","Bahrain","Bangladesh","Barbados","Belarus","Belgium","Belize","Benin","Bermuda","Bhutan","Bolivia","Bosnia &amp; Herzegovina","Botswana","Brazil","British Virgin Islands","Brunei","Bulgaria","Burkina Faso","Burundi","Cambodia","Cameroon","Cape Verde","Cayman Islands","Chad","Chile","China","Colombia","Congo","Cook Islands","Costa Rica","Cote D Ivoire","Croatia","Cruise Ship","Cuba","Cyprus","Czech Republic","Denmark","Djibouti","Dominica","Dominican Republic","Ecuador","Egypt","El Salvador","Equatorial Guinea","Estonia","Ethiopia","Falkland Islands","Faroe Islands","Fiji","Finland","France","French Polynesia","French West Indies","Gabon","Gambia","Georgia","Germany","Ghana","Gibraltar","Greece","Greenland","Grenada","Guam","Guatemala","Guernsey","Guinea","Guinea Bissau","Guyana","Haiti","Honduras","Hong Kong","Hungary","Iceland","India","Indonesia","Iran","Iraq","Ireland","Isle of Man","Israel","Italy","Jamaica","Japan","Jersey","Jordan","Kazakhstan","Kenya","Kuwait","Kyrgyz Republic","Laos","Latvia","Lebanon","Lesotho","Liberia","Libya","Liechtenstein","Lithuania","Luxembourg","Macau","Macedonia","Madagascar","Malawi","Malaysia","Maldives","Mali","Malta","Mauritania","Mauritius","Mexico","Moldova","Monaco","Mongolia","Montenegro","Montserrat","Morocco","Mozambique","Namibia","Nepal","Netherlands","Netherlands Antilles","New Caledonia","New Zealand","Nicaragua","Niger","Nigeria","Norway","Oman","Pakistan","Palestine","Panama","Papua New Guinea","Paraguay","Peru","Philippines","Poland","Portugal","Puerto Rico","Qatar","Reunion","Romania","Russia","Rwanda","Saint Pierre &amp; Miquelon","Samoa","San Marino","Satellite","Saudi Arabia","Senegal","Serbia","Seychelles","Sierra Leone","Singapore","Slovakia","Slovenia","South Africa","South Korea","Spain","Sri Lanka","St Kitts &amp; Nevis","St Lucia","St Vincent","St. Lucia","Sudan","Suriname","Swaziland","Sweden","Switzerland","Syria","Taiwan","Tajikistan","Tanzania","Thailand","Timor L'Este","Togo","Tonga","Trinidad &amp; Tobago","Tunisia","Turkey","Turkmenistan","Turks &amp; Caicos","Uganda","Ukraine","United Arab Emirates","United Kingdom","USA","Uruguay","Uzbekistan","Venezuela","Vietnam","Virgin Islands (US)","Yemen","Zambia","Zimbabwe"],
+
+
+    "title_about": "About this app",
+    "about_text": "MedSafety  ( السلامة الدوائية application is one of  the easiest way  to send reports of suspected adverse drug reactions to Iraqi  Pharmacovigilance  Center IPhvC . If you or any of your relatives  take medicine ,  dietary supplement or vaccines and suffer from  harmful or bothering effects ,  You can easily  report them by filling information in this application .  Your reports will enable IPhvC to know what is the reason of unwanted effects of drugs and inform health care professionals how to deal with these drugs to avoid harmful effects in the future.  By reporting adverse drug  reactions ,  you will assist in avoiding harmful and  unwanted effects of medicine  to you and other patients in Iraq and the rest world. \n\nIn addition , MedSafety  ( السلامة الدوائية  application  publish in the main page  most important  update information issued by IPhvC    which include  medical news ,  adverse reactions  , medication errors and counterfeit drugs  to the medical staff to make them informed and  aware of all serious effects of drugs to ensure administration of  safe and effective medicine  to the patients .\n",
+
+    "title_faq": "FAQ",
+    "faq_text": "Frequently asked questions FAQs\n\n  1. What is the application of MedSafety?\n\nAnswer .   It is the official application of  Iraqi Pharmacovigilance Center IPhvC  in the Iraqi Ministry of Health, through which you can report Adverse Drug Reactions  ADRs  of medicines and vaccines, as well as enable you to view the latest  updates letters issued by IPhvC  regarding the side effects of medicines and vaccines and see warnings about smuggled , fake ,  counterfeit medicines  for the purpose of avoiding it in order to enhance the delivery of safe, original and effective medicines to patients in Iraq .\n\n 2.  What are Adverse drug reactions ?\n\nAnswer . Adverse Drug Reactions ADRs are unwanted health effects that occur as a result of taking medicines, vaccines, vitamins, and dietary  supplement . Severity of ADRs  and occurrence varies from person to person depending on several factors such as age, drug dose, weight, nature of food, disease status or even the genetic variations .\n\n 3.  Who can send the ADRs report?\n\n  Answer.  All medical and health personnel (doctors, dentists, pharmacists, and other health care professionals ), as well as all people can report ADRs that they suffer from . In addition , every body can send ADRs reports of their kids , family , parents , friends , and  relatives through this application.\n\n 4. Why do we report ADRs ?\n\n Answer . ADRs occur in varying proportions and for various reasons, including the negative effect of the active ingredient of drugs,  errors in the use of the drugs , interactions between multiple drugs, interactions between drugs and diseases, or because of impurities present in counterfeit or fake medicines. IPhvC has a database of reports sent to it by you that enables it to analyze the data and know the causes of side effects and warn them, whatever the reasons, so sending side effects from you is an effective contribution to improving patients ’health in a way that ensures the arrival of safe and effective medicine to patients .\n\n 5.  How can I send adverse drug reaction  via this application?\n\n Answer .  You can view the reporting method by clicking on the menu button at the top left of the screen, clicking on (reporting method), and watching the explanatory video for the reporting method .\n6. Is there a legal responsibility  for me in case I send a adverse reaction report  ?\nAnswer . There is no legal responsibility or accountability for anyone who send adverse reaction report  . The names of senders and patients are kept confidential and  will not be  shown to public  and are kept in the Iraqi Pharmacovigilance Center database. These information are requested for the purpose of contacting senders  in case we need information regarding adverse reactions  and  patient’s condition in order to complete the report.\n 7.  Do I have to fill in all fields and options in the report?\n\n Answer.  You can send the report by filling mandatory fields and options only , which are marked with a * mark , but it is preferred to fill all fields and options in the report as much as possible so that we can accurately and quickly reach the causes of ADRs .\n\n8. Does reporting ADRs pertain to drugs dispensed from governmental health institutions?\n\n Answer .  Reporting includes all medicines, vaccines and tonics that are dispensed in the government and private sectors.\n\n 9.  What types of ADRs can I report?\n\n Answer .  It is possible to report all ADRs mentioned and not mentioned in the accompanying leaflet of the medicine, which dangerous , rare, ADRs that cause hospitalization , ADRs that cause disability, birth defects, life-threatening, and ineffective medicines.\nFor more information  , please contact us on mobile 07718020556 , you can send to email iraqphvc@gmail.com\n",
+    "title_contact": "Contact Us",
+    "contact_text": "mbasel80@gmail.com    07708583490\nكركوك محمد باسل regional pharmacovigilance unit in kirkuk\n",
+
+    "error_mandatory_reporter_name": "Please enter Sender Name",
+    "error_mandatory_reporter_phone": "Please enter Phone Number",
+    "error_mandatory_reporter_city": "Please select Sender City",
+    "error_mandatory_reporter_profession": "Please select Sender Profession",
+    "error_mandatory_patient_name": "Please enter Name",
+    "error_mandatory_patient_age": "Please enter Age",
+    "error_mandatory_patient_age_option": "Please select Age Options",
+    "error_mandatory_reaction_name": "Please enter Reaction Name",
+    "error_mandatory_reaction": "Please add Reaction(s)",
+    "error_mandatory_drug": "Please add Drug(s)",
+    "error_alert_title": "Error Alert!",
+    "error_mandatory_drug_role": "Please select Drug Role",
+    "error_mandatory_drug_name": "Please enter Drug Name",
+    "sending_email": "Sending Report....",
+    "error_sending_email": "Some error occurred while sending Report. Please try again or contact us!",
+    "close": "Close",
+    "dialog_alert": "Alert!",
+    "sending_email_success": "Your Adverse reaction report has been sent successfully!"
+}
+
+

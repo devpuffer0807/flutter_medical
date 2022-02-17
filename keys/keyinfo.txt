@@ -1,0 +1,21 @@
+D:\workspace\iraqpvc>flutter pub pub run flutter_automation --android-sign
+enter key alias: iraqphvc
+enter dname as (CN=popupbits.com, OU=DD, O=Popup Bits Ltd., L=Kathmandu, S=Bagmati, C=NP): iraqphvc
+key password: Iraqphvc!2o2o
+keystore password: Iraqphvc!2o2o
+keytool error: java.io.IOException: Incorrect AVA format
+generated keystore with provided input
+key properties file created
+release configs already configured
+
+D:\workspace\iraqpvc>flutter pub pub run flutter_automation --android-sign
+enter key alias: iraqphvc
+enter dname as (CN=popupbits.com, OU=DD, O=Popup Bits Ltd., L=Kathmandu, S=Bagmati, C=NP): CN=iraqphvc,OU=medsafety,O=Iraqphvc
+key password: Iraqphvc!2o2o
+keystore password: Iraqphvc!2o2o
+
+Warning:
+The JKS keystore uses a proprietary format. It is recommended to migrate to PKCS12 which is an industry standard format using "keytool -importkeystore -srckeystore keys/keystore.jks -destkeystore keys/keystore.jks -deststoretype pkcs12".
+generated keystore with provided input
+key properties file created
+release configs already configured

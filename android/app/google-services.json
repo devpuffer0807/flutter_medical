@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "17157125428",
+    "firebase_url": "https://iphvc-288903.firebaseio.com",
+    "project_id": "iphvc-288903",
+    "storage_bucket": "iphvc-288903.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17157125428:android:cc0b1d87927686892e2161",
+        "android_client_info": {
+          "package_name": "com.zapota.iphvc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17157125428-k09u4pk8jlo60612r2fhgg48erbdvkgg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyIjEZWzLeAfbugftjOaTAXxg5o9r1GwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17157125428-k09u4pk8jlo60612r2fhgg48erbdvkgg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
