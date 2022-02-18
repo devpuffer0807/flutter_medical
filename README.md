@@ -14,3 +14,13 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+https://stackoverflow.com/questions/50652071/flutter-command-not-found
+
+1. Open Terminal
+2. Run: nano ~/.zshrc
+3. : export PATH=[PATH_TO_FLUTTER_GIT_DIRECTORY]/flutter/bin:$PATH
+4. : source ~/.zshrc
+5. tart terminal
+6. : flutter doctor -v
